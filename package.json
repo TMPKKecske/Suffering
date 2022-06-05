@@ -1,0 +1,18 @@
+{
+  "name": "coffebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-leveling": "^5.4.0",
+    "mongoose": "^5.13.9",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
