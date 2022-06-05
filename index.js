@@ -1,6 +1,6 @@
 const Levels = require("discord.js-leveling");
 const Discord = require('discord.js');
-const clientToken = "OTYzMTIzNjQzNTM2MjY1MjM2.YlRgyg.okNkAGdNO5B_Uz8J_l7hNqfGDHM";
+const clientToken = "tokenlolol";
 const leaderboard = require('./commands/Leaderboard');
 const WelcomeChannelID = "929099204234715187";
 
